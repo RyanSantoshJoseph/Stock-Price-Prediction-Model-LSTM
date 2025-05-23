@@ -14,7 +14,7 @@ A minimal web app to predict stock prices using an LSTM model — powered by Ten
 - 💎 Modern glass UI with smooth hover interactions
 
 ---
-### 🔍 About
+###  About
 
 This project was developed as part of a **Data Analyst Internship at Zidio**, collaboratively built by a team of interns to explore time-series forecasting using deep learning models.
 ---
